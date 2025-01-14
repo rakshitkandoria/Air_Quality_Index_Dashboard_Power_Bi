@@ -11,8 +11,7 @@ The data used in this dashboard includes:
 The source of the data : https://www.kaggle.com/datasets/azminetoushikwasi/aqi-air-quality-index-scheduled-daily-update/data
 
 ## Dashboard 🖼️
-![Screenshot 2025-01-13 002504](https://github.com/user-attachments/assets/0024de2a-53f1-4c47-b299-036521823981)
-
+![Screenshot 2025-01-13 002504](https://github.com/user-attachments/assets/d71184f6-e10c-4e99-bd5b-2103309d02b7)
 
 ## 🔍 Key Insights
 ### 1️⃣ Countries with Poorest AQI
